@@ -1,0 +1,87 @@
+.invwind{
+    margin-top: 20px;
+    padding: 10px;
+    padding-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 1450px;
+    background-color: #181818;
+    border-radius: 15px;
+}
+.itemcard {
+    height: 330px;
+    width: 280px;
+    border-radius: 15px;
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cardimg {
+    width: 250px;
+    height: 250px;
+}
+
+.cardname {
+    font-size: 20px;
+    color: #39c5bb;
+    padding: 5px;
+}
+
+.cardbutton {
+    margin-top: 5px;
+    color: #0f0f0f;
+    height: 30px;
+    width: 100px;
+    border-radius: 15px;
+    background-color: #2BD591;
+    border: 0px;
+    font-size: 15px;
+    padding-bottom: 5px;
+}
+
+.itemlink {
+    all: unset;
+    display: contents; 
+}
+
+.cardprin {
+    font-size: 20px;
+    text-align: center;
+    height: 50px;
+    width: 60px;
+    background-color: #212121;
+    color: #f5f5f5;
+    border-color: #39c5bb;
+    border-radius: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.nullinv{
+    font-size: 30px;
+    color: #39c5bb;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.cardtobutton {
+    margin-top: 5px;
+    color: #0f0f0f;
+    height: 30px;
+    width: 100px;
+    border-radius: 15px;
+    background-color: #C84153;
+    border: 0px;
+    font-size: 15px;
+    padding-bottom: 5px;
+}
+
+.cardprice {
+    font-size: 20px;
+    color: #2BD591;
+}

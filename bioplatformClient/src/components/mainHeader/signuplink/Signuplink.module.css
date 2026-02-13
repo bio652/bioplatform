@@ -1,0 +1,16 @@
+.signuplink {
+    height: 70px;
+    width: 240px;
+    background-color: #181818;
+    border-radius: 15px;
+    transform: translate(40px, 0);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.smallsign {
+    color: #39c5bb;
+    font-size: 25px;
+}

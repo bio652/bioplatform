@@ -1,0 +1,24 @@
+.userpagewindow {
+    padding: 20px;
+    margin: 20px auto; 
+    width: 80%;
+    background-color: #0f0f0f;
+    border-radius: 15px;
+    overflow: hidden;
+
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.userdata {
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+.userinventory {
+    margin-left: 20px;
+}
+.createnft{
+    margin-left: 20px;
+}

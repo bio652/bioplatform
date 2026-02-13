@@ -1,0 +1,15 @@
+.boardwindow {
+    padding: 20px;
+    margin: 20px auto; 
+    width: 80%;
+    background-color: #0f0f0f;
+    border-radius: 15px;
+    overflow: hidden;
+
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

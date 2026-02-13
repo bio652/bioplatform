@@ -1,0 +1,28 @@
+.usercard {
+    height: 200px;
+    width: 300px;
+    background-color: #181818;
+    border-radius: 15px;
+    
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.cardusername {
+    transform: translate(40px, 0px);
+    color: #39c5bb;
+    font-size: 50px;
+}
+
+.carduserid {
+    transform: translate(50px, -25px);
+    font-size: 17px;
+}
+
+.carduserinvcount {
+    transform: translate(40px, -10px);
+    color: #2BD591;
+    font-size: 25px;
+}

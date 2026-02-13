@@ -1,0 +1,40 @@
+.balancecard {
+    height: 200px;
+    width: 500px;
+    background-color: #181818;
+    border-radius: 15px;
+    
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.balancename {
+    transform: translate(40px, 20px);
+    color: #39c5bb;
+    font-size: 30px;
+}
+
+.balancecount {
+    transform: translate(60px, 5px);
+    color: #2BD591;
+    font-size: 40px;
+}
+
+.balancecur {
+    font-size: 25px;
+    transform: translate(0px, -20px);
+}
+
+.balancebutton {
+    color: #0f0f0f;
+    height: 50px;
+    width: 160px;
+    border-radius: 15px;
+    background-color: #2BD591;
+    border: 0px;
+    font-size: 15px;
+    transform: translate(40px, -10px);
+
+}

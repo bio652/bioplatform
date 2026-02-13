@@ -1,0 +1,44 @@
+.mainHeader {
+    height: 100px;
+    margin: 20px auto; 
+    width: 80%;
+    background-color: #0f0f0f;
+    border-radius: 15px;
+    overflow: hidden;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px;
+    justify-content: space-around;
+}
+
+.prname {
+    font-size: 30px;
+    color: #39c5bb;
+    transform: translate(-40px, 0);
+}
+
+.mainnav {
+    height: 70px;
+    width: 500px;
+    background-color: #181818;
+    border-radius: 15px;
+    transform: translate(-100px, 0);
+
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.pagelink {
+    color: #0f0f0f;
+    height: 50px;
+    width: 160px;
+    border-radius: 15px;
+    background-color: #2BD591;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

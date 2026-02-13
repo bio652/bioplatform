@@ -1,0 +1,60 @@
+.createcard{
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 270px;
+    background-color: #181818;
+    border-radius: 15px;
+}
+
+.field1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    transform: translate(0px, 45px);
+}
+
+.imgfield{
+    margin-left: 50px;
+}
+
+.ccin{
+    font-size: 20px;
+    text-align: center;
+    height: 40px;
+    width: 200px;
+    background-color: #212121;
+    color: #f5f5f5;
+    border-color: #39c5bb;
+    border-radius: 15px;
+    margin-top: 10px;
+    
+}
+
+.ccbut{
+    font-size: 15px;
+    text-align: center;
+    height: 40px;
+    width: 200px;
+    background-color: #2BD591;
+    color: #0f0f0f;
+    border-color: #2BD591;
+    border-radius: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.img {
+    width: 250px;
+    height: 250px;
+}
+.img:not([src]) {
+  display: none;
+}
+.ref{
+    display: flex;
+    flex-direction: column;
+}

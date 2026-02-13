@@ -1,0 +1,122 @@
+.homewindow {
+    padding: 20px;
+    margin: 20px auto; 
+    width: 80%;
+    background-color: #0f0f0f;
+    border-radius: 15px;
+    overflow: hidden;
+
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.welcomecard{
+    height: 200px;
+    width: 1400px;
+    background-color: #181818;
+    border-radius: 15px;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+     flex-direction: column;
+}
+
+.welcomecardh1{
+    font-size: 60px;
+    color: #39c5bb;
+}
+
+.welcomecardh2{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.welcomecardh3{
+    font-size: 20px;
+}
+
+.randomcard{
+    margin-top: 20px;
+    height: 440px;
+    width: 850px;
+    background-color: #181818;
+    border-radius: 15px;
+    margin-left: 50px;
+    display: flex;
+    
+    flex-direction: row;
+}
+
+.randomcard2 {
+    height: 200px;
+    width: 400px;
+    background-color: #0f0f0f;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.randomcardname{
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 40px;
+    color: #39c5bb;
+}
+
+.randomcardowner{
+    margin-left: 40px;
+    margin-top: 10px;
+    font-size: 25px;
+    color: #2BD591;
+}
+
+.randomcardprice{
+    margin-left: 40px;
+    font-size: 20px;
+    color: #2BD591;
+}
+
+.nftcard {
+    height: 400px;
+    width: 360px;
+    background-color: #0f0f0f;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nftcardname {
+    font-size: 30px;
+    color: #39c5bb;
+}
+.nftcardtoken{
+    font-size: 13px;
+    color: #0f0f0f;
+    height: 50px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: #2BD591;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.infolight {
+    display: inline;
+    font-size: 25px;
+}
+.cardimg {
+    margin-top: 20px;
+    width: 250px;
+    height: 250px;
+}
+
+.itemlink {
+    all: unset;
+    display: contents; 
+}
