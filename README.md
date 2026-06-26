@@ -1,8 +1,4 @@
-# Bioplatform, площадка для торговли NFT
-
-Created: February 8, 2026 10:09 PM
-
-[https://github.com/bio652/bioplatform](https://github.com/bio652/bioplatform)
+# Bioplatform
 
 Весь код можно рассмотреть на GitHub.
 
